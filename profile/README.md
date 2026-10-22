@@ -24,4 +24,4 @@ app or the `omaf` CLI. Templates never change: *reset* throws a VM's state away 
 
 > **Status:** alpha, unsigned – download at [omaflake.app](https://omaflake.app). Needs a Mac with Apple silicon and macOS 27.
 
-<sub>omaflake is free software (AGPL-3.0-or-later; its recipes MIT) and a project of <a href="https://falkoss.org">falkOSS</a> – Falcon Lake Open Source Software gUG (haftungsbeschränkt) i.G., from Falkensee.</sub>
+<sub>omaflake is free software (AGPL-3.0-or-later; its recipes MIT) and a project of <a href="https://falkoss.org">falkOSS</a> – Falcon Lake Open Source Software gUG (haftungsbeschränkt) i. G., from Falkensee.</sub>
