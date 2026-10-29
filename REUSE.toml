@@ -1,0 +1,17 @@
+# SPDX-License-Identifier: CC-BY-4.0
+# Licence and copyright of the files in this repository (REUSE specification 3.3): the texts under CC BY 4.0, the
+# copies of the brand's artwork from omaflake/brand under its licence.
+version = 1
+
+# Files with an SPDX header (the workflow, MIT) keep it.
+[[annotations]]
+path = "**"
+precedence = "closest"
+SPDX-FileCopyrightText = "falkOSS – Falcon Lake Open Source Software gUG (haftungsbeschränkt) i. G. and the omaflake contributors"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "profile/assets/**"
+precedence = "override"
+SPDX-FileCopyrightText = "falkOSS – Falcon Lake Open Source Software gUG (haftungsbeschränkt) i. G."
+SPDX-License-Identifier = "CC-BY-ND-4.0"

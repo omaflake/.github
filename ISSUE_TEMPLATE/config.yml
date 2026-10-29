@@ -1,0 +1,9 @@
+# Security problems never go into a public issue.
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security problem
+    url: https://github.com/omaflake/.github/blob/main/SECURITY.md
+    about: Privately, through the Security tab or by mail – never in a public issue.
+  - name: Ask a question
+    url: https://github.com/omaflake/omaflake/discussions
+    about: Questions and ideas go to the Discussions.
