@@ -28,6 +28,17 @@ bar on a Mac, a native window on Linux), `omaf ui` or the `omaf` CLI. Templates 
 | [recipes](https://github.com/omaflake/recipes) | the official recipe catalog – and the template for your own recipe source |
 | [website](https://github.com/omaflake/website) | omaflake's landing page |
 
+### The name
+
+```
+OMAkase + FLAKE → omaflake
+```
+
+*Omakase* is Japanese for "I'll leave it to you": at a sushi bar, the chef chooses. Omarchy, the opinionated Arch
+Linux setup, took its name from it, and omaflake follows – a recipe chooses a whole system for you, ready to use. A
+*flake* is Nix's unit of reproducible code: it pins exactly what goes into a system, so the result is the same every
+time. Together: the chef's choice, reproducible.
+
 > **Status:** alpha, unsigned – download at [omaflake.app](https://omaflake.app). Runs on a Mac with Apple silicon and macOS 27, or on
 > Linux with Nix (NixOS guests only).
 
